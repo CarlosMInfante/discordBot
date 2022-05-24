@@ -1,5 +1,6 @@
 # discordBot
 This is where I will add steps that are not included in the comments.
+For git help type: git <command> --help
 
 1: Make sure you install the library
   On Windows:
