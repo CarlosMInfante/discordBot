@@ -18,3 +18,5 @@ For git help type: git <command> --help
     Select bot and then give the bot the roles you want
     Copy link and paste into browser, then add bot to your server
     Open Discord and verify bot is in your server
+5: In the Bot tab scroll to the "Privileged Gateway Intents" section
+    Select the two tabs "Presence Intent" and "Server Members Intent"
