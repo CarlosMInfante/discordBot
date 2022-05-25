@@ -1,6 +1,7 @@
 # discordBot
 This is where I will add steps that are not included in the comments.
 For git help type: git <command> --help
+Use this link for discord.py library https://discordpy.readthedocs.io/en/stable/
 
 1: Make sure you install the library
   On Windows:
@@ -20,3 +21,5 @@ For git help type: git <command> --help
     Open Discord and verify bot is in your server
 5: In the Bot tab scroll to the "Privileged Gateway Intents" section
     Select the two tabs "Presence Intent" and "Server Members Intent"
+6: To create the roles got to the discord server and select settings
+    Select roles and then create them
