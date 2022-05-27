@@ -14,6 +14,7 @@ Use this link for discord.py library https://discordpy.readthedocs.io/en/stable/
     Click on "New Application" and name your bot.
     Click on the Bot tab and then add bot.
 3: Make sure you copy the token and keep it private
+    You will use this toke in the Event_Basics.py file in the bot.run()
 4: Click on the OAuth2 tab
     Go to URL Generator tab
     Select bot and then give the bot the roles you want
